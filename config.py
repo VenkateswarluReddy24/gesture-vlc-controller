@@ -80,9 +80,9 @@ class VLCConfig:
     executable: Path = Path(
         r"C:\Program Files\VideoLAN\VLC\vlc.exe"
     )
-    host: str = "127.0.0.1"
-    port: int = 4000
-    password: str = "vlc123"
+    host: str = "HOSTING ADDRESS"
+    port: int = "PORT NUMBER"
+    password: str = "PASSWORD"
     timeout: float = 1.2
     reconnect_interval: float = 2.0
     auto_start: bool = True
