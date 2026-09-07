@@ -45,10 +45,10 @@
     "seek_seconds": 10
   },
   "vlc": {
-    "executable": "C:\\Program Files\\VideoLAN\\VLC\\vlc.exe",
-    "host": "127.0.0.1",
-    "port": 4000,
-    "password": "vlc123",
+    "executable": "PATH OF VLC",
+    "host": "HOSTING ADDRESS",
+    "port": "PORT NUMBER",
+    "password": "CHANGE_ME",
     "timeout": 1.2,
     "reconnect_interval": 2.0,
     "auto_start": true,
